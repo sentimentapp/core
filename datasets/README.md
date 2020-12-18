@@ -6,6 +6,6 @@ This folder contains the datasets used for training different models. This makes
   * Dataset of text entries labeled with 6 different emotions
   * Provided by Praveen on Kaggle
 * [twitter_emotions.zip](https://www.kaggle.com/manuelbenedicto/figure-eight-labelled-textual-dataset)
-  * Dataset of tweets labeled with 12 different emotions
+  * Dataset of tweets labeled with 5 different emotions
   * Provided by Manuel Benedicto and Figure Eight (Appen) on Kaggle
 
