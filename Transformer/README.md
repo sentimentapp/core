@@ -1,1 +1,1 @@
-# BERT Style Transformer for Sentiment Classification
+# BERT Style Transformer for Emotion Classification in Text
