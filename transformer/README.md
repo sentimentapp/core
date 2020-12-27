@@ -1,6 +1,6 @@
 # BERT Style Transformer for Emotion Classification in Text
 
-Check out a working demo of the model at https://colab.research.google.com/drive/1bpvIRcNmKAKpKD1ZM3J7BPyiJtFysF1i#scrollTo=be_nF9XOxSFr.
+**[Check Out This Working Model Demo!](https://colab.research.google.com/drive/1bpvIRcNmKAKpKD1ZM3J7BPyiJtFysF1i#scrollTo=be_nF9XOxSFr)**
 <br>
 <br>
 See how the model was integrated into the Sentiment app at https://github.com/sentimentapp/application/tree/feature.transformer/src/modules/model.
