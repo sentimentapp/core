@@ -1,4 +1,4 @@
-# BERT Style Transformer for Emotion Classification in Text
+# BERT Transformer for Emotion Classification in Text
 
 **[Check Out This Working Model Demo!](https://colab.research.google.com/drive/1bpvIRcNmKAKpKD1ZM3J7BPyiJtFysF1i#scrollTo=be_nF9XOxSFr)**
 <br>
